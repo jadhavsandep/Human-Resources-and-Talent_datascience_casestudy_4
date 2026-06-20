@@ -35,13 +35,7 @@ The dashboard includes:
 * Risk Category Distribution
 * Top High-Risk Employees Table
 * HR Action Recommendations
-
-### Dashboard Screenshot
-
-![HR Employee Attrition Dashboard]("C:\Users\ASUS\Downloads\preview.html")
-
 ### Dashboard Files
-
 | File                                     | Description                        |
 | ---------------------------------------- | ---------------------------------- |
 | `HR_Employee_Attrition_Dashboard.html`   | Interactive HTML dashboard         |
